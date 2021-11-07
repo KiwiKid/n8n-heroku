@@ -1,0 +1,707 @@
+var items = [
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000001895D40968946540BF7D1D3867C445C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I9k",
+"location": "Cnr Lichfield St and Colombo Street, Christchurch Central City, Christchurch 8011",
+"city": "Christchurch",
+"startdate": "20/10/2021, 2:15 pm",
+"enddate": "20/10/2021, 2:45 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000001895D40968946540BF7D1D3867C445C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I9k",
+"location": "Cnr Lichfield St and Colombo Street, Christchurch Central City, Christchurch 8011",
+"city": "Christchurch",
+"startdate": "20/10/2021, 2:15 pm",
+"enddate": "20/10/2021, 2:45 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000030B951642D9265402507EC6AF2C445C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005IDi",
+"location": "68 Curletts Road, Sockburn, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 5:00 pm",
+"enddate": "18/10/2021, 5:30 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000030B951642D9265402507EC6AF2C445C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005IDi",
+"location": "68 Curletts Road, Sockburn, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 5:00 pm",
+"enddate": "18/10/2021, 5:30 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000008BE1EA00089565405DC47762D6C345C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005IEW",
+"location": "108D Stanmore Road, Linwood, Christchurch 8011",
+"city": "Christchurch",
+"startdate": "20/10/2021, 6:00 pm",
+"enddate": "20/10/2021, 6:30 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000008BE1EA00089565405DC47762D6C345C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005IEW",
+"location": "108D Stanmore Road, Linwood, Christchurch 8011",
+"city": "Christchurch",
+"startdate": "20/10/2021, 6:00 pm",
+"enddate": "20/10/2021, 6:30 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000009488F02F02936540E44BA8E0F0C645C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005JvN",
+"location": "9 Halswell Road, Hillmorton, Christchurch 8025",
+"city": "Christchurch",
+"startdate": "27/10/2021, 11:00 am",
+"enddate": "27/10/2021, 11:30 am"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000009488F02F02936540E44BA8E0F0C645C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005JvN",
+"location": "9 Halswell Road, Hillmorton, Christchurch 8025",
+"city": "Christchurch",
+"startdate": "27/10/2021, 11:00 am",
+"enddate": "27/10/2021, 11:30 am"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000925ED4EED7906540D2AA967494C545C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I1v",
+"location": "389 Main South Road, Hornby, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 12:45 pm",
+"enddate": "18/10/2021, 1:15 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000925ED4EED7906540D2AA967494C545C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I1v",
+"location": "389 Main South Road, Hornby, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 12:45 pm",
+"enddate": "18/10/2021, 1:15 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000005ED89AADBC9265409AD2FA5B02C045C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I1M",
+"location": "255 Greers Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "23/10/2021, 4:15 pm",
+"enddate": "23/10/2021, 5:15 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000005ED89AADBC9265409AD2FA5B02C045C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I1M",
+"location": "255 Greers Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "23/10/2021, 4:15 pm",
+"enddate": "23/10/2021, 5:15 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000011FE45D0988F654026C808A870C645C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I0n",
+"location": "733 Main South Road, Islington, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "20/10/2021, 7:30 am",
+"enddate": "20/10/2021, 8:30 am"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000011FE45D0988F654026C808A870C645C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I0n",
+"location": "733 Main South Road, Islington, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "20/10/2021, 7:30 am",
+"enddate": "20/10/2021, 8:30 am"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000004BE9995EE292654061FE0A992BC145C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005Hzu",
+"location": "376 Ilam Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "18/10/2021, 6:45 pm",
+"enddate": "18/10/2021, 7:45 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000004BE9995EE292654061FE0A992BC145C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005Hzu",
+"location": "376 Ilam Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "18/10/2021, 6:45 pm",
+"enddate": "18/10/2021, 7:45 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000006C770FD0FD92654006F2ECF2ADBD45C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I2y",
+"location": "245 Sawyers Arms Road, Bishopdale, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "27/10/2021, 4:00 pm",
+"enddate": "27/10/2021, 5:00 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000006C770FD0FD92654006F2ECF2ADBD45C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I2y",
+"location": "245 Sawyers Arms Road, Bishopdale, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "27/10/2021, 4:00 pm",
+"enddate": "27/10/2021, 5:00 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000002B8716D9CE936540107A36AB3EC745C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005Kns",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 11:05 am",
+"enddate": "23/10/2021, 11:15 am"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000002B8716D9CE936540107A36AB3EC745C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005Kns",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 11:05 am",
+"enddate": "23/10/2021, 11:15 am"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000030B951642D9265402507EC6AF2C445C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I1l",
+"location": "68 Curletts Road, Sockburn, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 4:30 pm",
+"enddate": "18/10/2021, 5:30 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000030B951642D9265402507EC6AF2C445C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I1l",
+"location": "68 Curletts Road, Sockburn, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 4:30 pm",
+"enddate": "18/10/2021, 5:30 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CE001764CB93654037A5BC5642C745C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005Jdn",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "26/10/2021, 11:46 am",
+"enddate": "26/10/2021, 1:00 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CE001764CB93654037A5BC5642C745C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005Jdn",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "26/10/2021, 11:46 am",
+"enddate": "26/10/2021, 1:00 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000E9B81AD9159365402E8ECA4DD4C445C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I0E",
+"location": "149 Blenheim Road, Riccarton, Christchurch 8041",
+"city": "Christchurch",
+"startdate": "20/10/2021, 5:45 pm",
+"enddate": "20/10/2021, 6:15 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000E9B81AD9159365402E8ECA4DD4C445C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I0E",
+"location": "149 Blenheim Road, Riccarton, Christchurch 8041",
+"city": "Christchurch",
+"startdate": "20/10/2021, 5:45 pm",
+"enddate": "20/10/2021, 6:15 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000002E3A596ABD926540F030ED9BFBBF45C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I2e",
+"location": "257 Greers Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "23/10/2021, 4:30 pm",
+"enddate": "23/10/2021, 5:15 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000002E3A596ABD926540F030ED9BFBBF45C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I2e",
+"location": "257 Greers Road, Bryndwr, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "23/10/2021, 4:30 pm",
+"enddate": "23/10/2021, 5:15 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CDCCCCCCCC9265408351499D80BE45C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I5s",
+"location": "Cnr Farrington Ave and Harewood Rd, Bishopdale, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "27/10/2021, 4:30 pm",
+"enddate": "27/10/2021, 5:45 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CDCCCCCCCC9265408351499D80BE45C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I5s",
+"location": "Cnr Farrington Ave and Harewood Rd, Bishopdale, Christchurch 8053",
+"city": "Christchurch",
+"startdate": "27/10/2021, 4:30 pm",
+"enddate": "27/10/2021, 5:45 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CE001764CB93654037A5BC5642C745C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005Kmu",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 10:54 am",
+"enddate": "23/10/2021, 11:05 am"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CE001764CB93654037A5BC5642C745C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005Kmu",
+"location": "256 Barrington Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 10:54 am",
+"enddate": "23/10/2021, 11:05 am"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000004417D4B7CC9265406000E14389BE45C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I2o",
+"location": "41 Bishopdale Court, Bishopdale, Christchurch 8503",
+"city": "Christchurch",
+"startdate": "25/10/2021, 11:30 am",
+"enddate": "25/10/2021, 12:30 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E61000004417D4B7CC9265406000E14389BE45C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I2o",
+"location": "41 Bishopdale Court, Bishopdale, Christchurch 8503",
+"city": "Christchurch",
+"startdate": "25/10/2021, 11:30 am",
+"enddate": "25/10/2021, 12:30 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000057ED9A90D6936540815B77F354C745C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005Km1",
+"location": "10 Athelstan Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 10:46 am",
+"enddate": "23/10/2021, 10:54 am"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E610000057ED9A90D6936540815B77F354C745C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005Km1",
+"location": "10 Athelstan Street, Spreydon, Christchurch 8024",
+"city": "Christchurch",
+"startdate": "23/10/2021, 10:46 am",
+"enddate": "23/10/2021, 10:54 am"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CBF44BC4DB95654070ECD97399C245C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I2P",
+"location": "22 Wainoni Road, Wainoni, Christchurch 8061",
+"city": "Christchurch",
+"startdate": "22/10/2021, 1:00 pm",
+"enddate": "22/10/2021, 1:45 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000CBF44BC4DB95654070ECD97399C245C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I2P",
+"location": "22 Wainoni Road, Wainoni, Christchurch 8061",
+"city": "Christchurch",
+"startdate": "22/10/2021, 1:00 pm",
+"enddate": "22/10/2021, 1:45 pm"
+}
+},
+{
+"json": {
+"email": "katrinbowie@hotmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000DE938785DA906540D89B189293C545C0",
+"recordadded": "1636008267126",
+"id": "a0l4a0000005I2A",
+"location": "385 Main South Road, Hornby, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 12:45 pm",
+"enddate": "18/10/2021, 1:30 pm"
+}
+},
+{
+"json": {
+"email": "ghcumming01+christchurchTest@gmail.com",
+"lat": "-43.524632",
+"latfloat": -43.524632,
+"lng": "172.610397",
+"lngfloat": 172.610397,
+"subradius": 58250,
+"geog": "0101000020E6100000DE938785DA906540D89B189293C545C0",
+"recordadded": "1636004247760",
+"id": "a0l4a0000005I2A",
+"location": "385 Main South Road, Hornby, Christchurch 8042",
+"city": "Christchurch",
+"startdate": "18/10/2021, 12:45 pm",
+"enddate": "18/10/2021, 1:30 pm"
+}
+}
+]
+
+function groupByArray(xs, key) { 
+    return xs.reduce(function (rv, x) { 
+        let v = key instanceof Function ? key(x) : x[key]; 
+        let el = rv.find((r) => r && r.key === v); 
+        if (el) { 
+            el.values.push(x); 
+        } else { 
+            rv.push({ key: v, values: [x] }); 
+        } return rv; 
+    }, []);
+}
+
+var res = groupByArray(items, (i) => i.json.email)
+    .map((recip) => { 
+        return {json: {
+            email: recip.key
+            , html: 
+                recip.values
+                    .reduce((prev, curr) => `${prev}<br/>${curr.json.location}  ${curr.json.startdate} => ${curr.json.enddate}`, "")
+            , subject: 
+                recip.value.length + ' new locations of interest'
+        }}});
+
+console.log(JSON.stringify(res))

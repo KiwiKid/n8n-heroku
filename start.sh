@@ -58,8 +58,5 @@ else
 	echo "invalid url arg"
 fi
 
-#All external libraries
-NODE_FUNCTION_ALLOW_EXTERNAL=handlebars
-
 # kickstart nodemation
 n8n
